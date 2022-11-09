@@ -13,4 +13,5 @@
 aulas, assim como reforçar e desenvolver conceitos de lógica, funções e manipulação de 
 arrays usando Javascript.</h3>
 
-<link rel="stylesheet" href="https://maiararib388.github.io/Codificador/">
+<h1>Link no GitHub Pages</h1>
+https://maiararib388.github.io/Codificador/
